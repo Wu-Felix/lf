@@ -6,7 +6,6 @@
 : delete
 : delete
 : delete
-: delete
 $ mkdir 1,2
 $ mkdir 3,4,5
 $ touch 1.txt,2.txt,3.txt
@@ -210,8 +209,8 @@ $ select JG
 $ select JH
 : select
 $ select
-$ cat ./files
-$ powershell host-read cat files
+$ bat ./files
+$ powershell host-read bat files
 $ echo files
 $ echo files
 $ echo files
@@ -998,3 +997,4 @@ $ touch files/1.txt
 $ mkdir files
 $ touch 1.txt 2.txt
 : zzip
+: azip

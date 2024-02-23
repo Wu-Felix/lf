@@ -20,22 +20,6 @@ cmd PushTrash :{{
   clear
 }}
 
-# zip
-## zip
-cmd zzip ${{powershell ~/AppData/Local/lf/ZZip.ps1 %f%}}
-## uzip
-cmd uzip ${{powershell ~/AppData/Local/lf/UZip.ps1 %f%}}
-## lzip
-cmd lzip ${{powershell ~/AppData/Local/lf/LZip.ps1 %f%}}
-## dzip
-cmd dzip ${{powershell ~/AppData/Local/lf/DZip.ps1 %f%}}
-## azip
-cmd Azip ${{powershell ~/AppData/Local/lf/AZip.ps1 %f%}}
-cmd azip :{{
-  cut
-  Azip
-  clear
-}}
 #########################################################################################
 
 # Bindings
@@ -54,7 +38,7 @@ map R reload
 map <c-j> push 10j
 map <c-k> push 10k
 map e $wt -w nt --startingDirectory=%pwd%
-map <c-e> $explorer .
+map <c-o> $explorer .
 map <enter> shell
 # insert
 map a push $touch<space>
@@ -70,10 +54,3 @@ map V $vim %fx%
 map N $nvim %fx%
 map o openwith
 map O $code %fx%
-
-# zip
-map zz push :zzip<enter>
-map zu push :uzip<enter>
-map zl push :lzip<enter>
-map zd push :dzip<enter>
-map za push :azip<enter>
