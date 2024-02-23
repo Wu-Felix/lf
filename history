@@ -1,0 +1,1000 @@
+: delete
+: delete
+: delete
+: delete
+: delete
+: delete
+: delete
+: delete
+: delete
+$ mkdir 1,2
+$ mkdir 3,4,5
+$ touch 1.txt,2.txt,3.txt
+$ touche 1.txt
+$ touch 1.txt
+$ touch 2.txt
+$ touch 1.txt 2.txt
+$ touch 3.txt 4.txt
+$ mkdir 1 2 3
+: openwith code
+: openwith code
+: openwith 
+: openwith 
+: openwith 
+: openwith 
+: openwith 
+$ o
+: openwith 
+: c:/
+: cd c:/
+$ mkdir test
+: cd c:\\Desktop
+: cd d:/
+: cd ~/
+: cd ~
+: cd d:/
+: delete
+: delete 
+: cd c/
+: cd c:/
+$ cd d:/
+: cd d:/
+$ mkdir 1
+$ touch 1.txt 2.txt 3.txt
+: cd d:/
+: cd ~
+: cd d:\\File\\文档\\
+: touch 1.txt 2.txt 3.txt
+: touch 1.txt 2.txt 3.txt
+$ touch 1.txt 2.txt 3.txt
+$ touch 1.txt
+$ delete
+$ rm
+: ?
+: help
+: h
+$ help
+$ help
+$ touch 1.txt 2.txt 3.txt
+: open
+$ touch 1.txt
+: rname
+: rname
+: delete
+: ha
+: ha
+: hs
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ha
+: ka
+: ha
+: ha
+: ha
+: ha 1
+: ha 1
+: ha 1
+: ha
+: ha
+: ha 1
+: ha
+: ha
+$ touch 1.txt 2.txt
+$ touch 3.txt
+$ touch 1.txt
+: ha 1
+: ha 3
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith code
+: openwith vim
+: openwith vim
+: openwithvim
+$ vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith 
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith 
+: openwith vim
+: openwith vim
+: openwith vim
+: openwith vim
+: mkdir 1
+: mkdir 123
+: mkdir 1
+: openwith vim
+$ q
+: delete 
+$ touch 2.txt 3.txt 4.txt
+: delete
+$ touch 1.txt 2.txt 3.txt
+$ fzf
+$ touch 1.txt
+: zip 1
+: zip 1.zip
+$ touch 123.txt
+$ touch 1.txt 2.txt 3.txt
+$ lazygit
+: z 2.txt
+: z 
+: ha
+: ha
+$ touch 1.txt 2.txt 3.txt
+: move
+: mkdir 123
+: mkdir qwe
+$ move ./123
+$ cut ./123
+$ cut
+$ cd 123
+$ move 1.txt 123
+$ mv 2.txt,3.txt 123
+$ move 2.txt 3.txt 123
+$ mv 123
+$ move 123
+$ move 2.txt 123
+$ move 3.txt 123
+$ cd d:/
+$ cd d:/
+$ cd d:/
+: cd d/
+: cd d:/
+: cd d:/
+: cd d:/
+: cd c:/
+: cd d:/
+$ mkdir -p 123
+: mkdir 123/345
+$ mkdir 345
+$ mkdir 345/123
+$ mkdir 345/123 -p
+$ mkdir -p 345/123
+$ mkdir -p 345/123
+$ mkdir -p 345
+: mkdir 345/123
+: mkdir 345/13
+$ mkdir -p 345/123
+$ mkdir -p 345/123
+: mkdir 345
+: mkdir 345/123
+: mkdir 123
+: mkdir 345
+: mkdir 345
+: select
+$ select JG
+$ select JH
+: select
+$ select
+$ cat ./files
+$ powershell host-read cat files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ echo files
+$ dirname
+$ fzf
+: mkdir 345
+$ cut
+: cut
+: cut
+: paste ../345
+: paste ./
+: paste ./123
+% mv ../
+% mv ../345
+% mv --help
+$ mv ../
+% mv ../
+% move ../
+% move ../
+$ touch 1.txt
+: mkdir trash
+$ dd
+: cut
+: trash
+: trash
+: trash
+: trash
+: trash
+: trash
+: trash
+: trash
+: trash
+: t
+: t
+: t
+: t
+: t
+: t
+: t
+: PushTrash
+: mkdir 123/345
+: mkdir 123/345
+: mkdir 123/345
+: mkdir 123/456
+$ touch 12.txt
+: PushTrash
+: cd d:/
+: cd d:\\file\\
+: cd d:\\File\\
+: cd d:/
+$ touch atom-dark.vim
+$ touch 1.txt 2.txt
+: PushTrash
+: mkdir ES6
+$ touch var、let、const.js
+$ touch path库应用.js
+: mkdir 6.6
+: mkdir node_global
+: mkdir node_cache
+: mkdir 6.6
+: mkdir 6.7
+$ touch index.js
+$ touch login.js register.js search.js
+$ touch webpack.config.js
+: mkdir wetchat-test
+$ touch 6.7
+: mkdir 4.7
+: mkdir wetchat-obj
+: mkdir tomatoClock
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: delete
+$ touch 1.txt
+$ touch 2.txt 3.txt
+: PushTrash
+: PushTrash
+: l
+: ll
+: ls
+: pwd
+: l
+: l
+: ll
+: l
+$ touch opwith.sh
+$ touch PushTrash.sh
+$ touch 1.md
+: PushTrash
+: bash PushTrash.sh
+: bash PushTrash.sh
+: PushTrash
+: PushTrash
+: PushTrash
+$ touch 1.txt 2.txt 3.txt
+: mkdir 1
+: PushTrash
+: PushTrash
+$ touch 1.txt
+: PushTrash
+$ touch asd.txt
+: PushTrash
+$ touch MkDir.sh
+: mkdir 2
+: mkdir 2
+: mkdir 2
+: touch 1.txt
+$ mkdir 4
+$ mkdir 1 2 3
+$ cd /
+$ cd /
+$ bash cd /
+$ touch CopyPath.sh
+$ fx
+$ echo %fx%
+$ dirname
+$ echo 123
+$ read
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: cd
+: cd d
+: cd d:/
+: cd c:/
+: cd d:/
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+$ dirname
+$ echo dirname
+$ read
+$ echo $dirname
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+: CopyPath
+$ echo %f% | clip
+$ echo %f% | clip
+$ echo $dirname | clip
+$ echo %d%  clip
+$ echo %f% |clip
+$ echo %d% |clip
+$ echo %filename% |clip
+$ echo %fx% | clip
+$ echo %s% |clip
+$ echo %f% <c-a> | clip
+$ echo %f%<c-a> | clip
+$ echo %f%<c-e> | clip
+$ explorer
+$ explorer .
+$ explorer .
+: PushTrash
+: unzip files.zip files
+$ mkdir files
+$ touch 1.txt 2.txt 3.txt
+$ touch 4.md
+$ zip -r files.zip ./files
+$ touch zzip.sh
+$ touch UZip.sh
+$ touch LZip.sh
+: ZZip
+: zzip
+: uzip
+: lzip
+: zzip
+: zzip
+: PushTrash
+: zzip
+: zzip
+: zzip
+: PushTrash
+: uzip
+: PushTrash
+: PushTrash
+: uzip
+: PushTrash
+: zzip
+: lzip
+: lzip
+: zzip
+: PushTrash
+$ touch 1.txt
+: zzip
+: zzip
+: lzip
+: lzip
+: lzip
+: zzip
+: lzip
+$ mkdir files
+$ touch 1.txt 2.txt 3.txt
+: zzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: lzip
+: zzip
+: lzip
+: zzip
+: lzip
+: uzip
+: lzip
+: zzip
+: uzip
+: cd d:/
+: cd d:/
+$ mkdir files
+$ touch 1.txt 2.txt 3.txt
+: zzip
+: uzip
+$ touch 1.txt 2.txt 3.txt
+: zzip
+: lzip
+$ touch DZip.sh
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: lzip
+: dzip
+: lzip
+: dzip
+: dzip
+: dzip
+: dzip
+$ touch Azip.sh
+: azip 1
+: azip 
+: zzip
+: lzip
+: azip f
+: azip f
+: lzip
+: dzip
+: lzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: dzip
+: lzip
+: dzip
+: lzip
+: zzip
+: lzip
+: dzip
+: lzip
+: dzip
+: lzip
+: lzip
+: zzip
+: lzip
+: uzip
+: lzip
+: dzip
+: lzip
+: zzip
+: lzip
+: lzip
+$ touch q.txt w.txt r.txt
+: azip
+: lzip
+: azip
+: azip
+: lzip
+: dzip
+: zzip
+$ touch a.txt b.txt c.txt
+: azip
+: lzip
+: azip
+: azip
+: azip
+: lzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: zzip
+: lzip
+$ touch 1.txt 2.txt 3.txt
+: zzip
+: lzip
+$ touch x.txt
+: azip
+: azip
+: azip
+: azip
+: lzip
+: uzip
+: lzip
+: zzip
+$ touch a.txt b.txt c.txt
+: azip
+: lzip
+: azip
+: azip
+: azip
+: azip
+: azip
+: lzip
+$ mkdir files
+$ touch zx.txt qw.txt
+: azip
+: azip
+: azip
+: uzip
+: zzip
+: lzip
+: lzip
+: lzip
+: lzip
+$ touch test.docx
+$ touch HelloWorld.js
+$ mkdir files
+$ touch 1.txt 2.txt 3.txt
+: zzip
+: lzip
+$ touch a.py
+: azip
+: lzip
+: dzip
+: lzip
+: PushTrash
+$ touch vim工作流.docx
+$ touch HelloWord.js
+$ touch files
+$ mkdir files
+$ mkdir files
+$ mkdir files
+$ touch 1.txt 2.txt 3.txt
+: PushTrash
+$ touch helloworld.js
+$ touch vim工作流.docx
+$ mkdir files
+$ touch 1.txt 2.txt
+: zzip
+: lzip
+: PushTrash
+: uzip
+: lzip
+: dzip
+: lzip
+: lzip
+: uzip
+$ touch helloWorld.js
+$ touch vim工作流.docx
+: PushTrash
+$ mkdir nvim
+$ touch init.vim
+$ mkdir site
+$ mkdir autoload
+$ mkdir plugged
+$ mkdir 7.8
+$ touch index.html
+$ touch index.js
+$ mkdir 北京面试
+$ mkdir Trash
+$ touch 1.txt
+: PushTrash
+$ mkdir m
+: PushTrash
+: zzip
+$ touch 1.txt
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: xxPushTraxsh
+: PxushxTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: PushTrash
+: zzip
+: uzip
+: zzip
+: lzip
+: dzip
+: lzip
+: azip
+: azip
+: azip
+: azip
+: azip
+: azip
+: azip
+: lzip
+: azip
+: lzip
+: dzip
+: lzip
+: azip
+: lzip
+: azip
+: lzip
+: dzip
+: dzip
+$ touch 1.txt 2.txt
+$ mkdir files
+: zzip
+: uzip
+: PushTrash
+: PushTrash
+$ touch files/1.txt
+$ mkdir files
+$ touch 1.txt 2.txt
+: zzip

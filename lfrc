@@ -1,0 +1,79 @@
+# Basic settings
+set promptfmt "\033[1;256;48;36;128m%d\033[0m\033[1;256;48;36;128m%f\033[0m"
+set shellopts '-eu'
+set ifs "\n"
+set scrolloff 10
+set icons
+set period 1
+set hiddenfiles ".*:*.aux:*.log:*.bbl:*.bcf:*.blg:*.run.xml"
+
+# functions
+# open with custom application
+cmd openwith ${{powershell ~/AppData/Local/lf/openwith.ps1 %f%}}
+# create direactory
+cmd mkdir ${{powershell mkdir -p }}
+# move trash
+cmd trash ${{powershell ~/AppData/Local/lf/PushTrash.ps1}}
+cmd PushTrash :{{
+  cut
+  trash
+  clear
+}}
+
+# zip
+## zip
+cmd zzip ${{powershell ~/AppData/Local/lf/ZZip.ps1 %f%}}
+## uzip
+cmd uzip ${{powershell ~/AppData/Local/lf/UZip.ps1 %f%}}
+## lzip
+cmd lzip ${{powershell ~/AppData/Local/lf/LZip.ps1 %f%}}
+## dzip
+cmd dzip ${{powershell ~/AppData/Local/lf/DZip.ps1 %f%}}
+## azip
+cmd Azip ${{powershell ~/AppData/Local/lf/AZip.ps1 %f%}}
+cmd azip :{{
+  cut
+  Azip
+  clear
+}}
+#########################################################################################
+
+# Bindings
+# Remove some defaults
+map f
+map F
+map t
+map d
+map y
+map dd cut
+map yy copy
+map yp $echo %f% | clip
+
+map . set hidden!
+map R reload
+map <c-j> push 10j
+map <c-k> push 10k
+map e $wt -w nt --startingDirectory=%pwd%
+map <c-e> $explorer .
+map <enter> shell
+# insert
+map a push $touch<space>
+map A push $mkdir<space>
+# delete
+map X delete
+map x push :PushTrash<enter>
+# rename
+map i push r<c-a> # at the very beginning
+map I push r<c-e>
+# cat
+map V $vim %fx%
+map N $nvim %fx%
+map o openwith
+map O $code %fx%
+
+# zip
+map zz push :zzip<enter>
+map zu push :uzip<enter>
+map zl push :lzip<enter>
+map zd push :dzip<enter>
+map za push :azip<enter>
