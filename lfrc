@@ -24,11 +24,7 @@ cmd PushTrash :{{
 
 # Bindings
 # Remove some defaults
-map f
-map F
-map t
-map d
-map y
+map <c-f> $fzf
 map dd cut
 map yy copy
 map yp $echo %f% | clip
@@ -39,7 +35,8 @@ map <c-j> push 10j
 map <c-k> push 10k
 map e $wt -w nt --startingDirectory=%pwd%
 map <c-o> $explorer .
-map <enter> shell
+map <c-g> $lazygit
+map <enter> $nvim %fx%
 # insert
 map a push $touch<space>
 map A push $mkdir<space>
@@ -47,10 +44,11 @@ map A push $mkdir<space>
 map X delete
 map x push :PushTrash<enter>
 # rename
-map i push r<c-a> # at the very beginning
+map i $bat %f% # at the very beginning
 map I push r<c-e>
 # cat
 map V $vim %fx%
 map N $nvim %fx%
 map o openwith
 map O $code %fx%
+map i !bat %f%
